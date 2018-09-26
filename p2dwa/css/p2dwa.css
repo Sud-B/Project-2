@@ -1,0 +1,17 @@
+
+#photo{
+	border:3px solid darkblue;
+	padding: 0.5cm;
+	align: center;
+}
+body {  background-color: #FFC179;
+		color:	darkred;
+		font-family: verdana, arial, helvetica, sans-serif;
+		width: 900px;
+		margin: 0 auto;
+     }
+h1, h2 {	
+	color: darkred;
+	text-align: center;
+   }
+   
