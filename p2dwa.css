@@ -1,0 +1,14 @@
+/* Styling for Project 2 */
+
+body {  font-family: verdana, arial, helvetica, sans-serif;
+		background-color: #FFC179;
+		color:	darkred;
+		width: 900px;
+		margin: 0 auto;
+     }
+h1, h2 {	
+	color: darkred;
+	text-align: center;
+   }
+   
+   
